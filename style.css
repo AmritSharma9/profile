@@ -358,7 +358,7 @@ article .icon {
 
 #projects {
   position: relative;
-  margin-top: -15rem;
+  margin-top: -10rem;
 }
 
 .color-container {
@@ -389,7 +389,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 50vh;
-  margin-top: -5rem;
+  margin-top: 4rem;
 
 }
 
